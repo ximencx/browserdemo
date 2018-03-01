@@ -1,2 +1,1 @@
-include ':vitamioBundle'
-include ':javaapkcomBrowser_1113'
+include ':vitamioBundle',':app'
